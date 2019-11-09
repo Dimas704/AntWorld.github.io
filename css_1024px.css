@@ -1,0 +1,107 @@
+html, body{
+	width: 100%;
+	height: 100%;
+}
+header{
+	background: url(css/header_bg.jpg) no-repeat;
+	background-size: 100%;
+	margin-right: -15px;
+	margin-top: -25px;
+	margin-left: -15px;
+	height: 325px;
+}
+header p{
+	padding-top: 35px;
+	padding-left: 50px;
+}
+#icon{
+	height: 200px;
+	width: 200px;
+	padding-top: 175px;
+}
+nav{
+	background: url(css/body_bg.jpeg);
+	font-size: 20px;
+	height: 100%;
+	margin-right: -15px;
+	margin-left: -15px;
+}
+#serviformica_rufibarbis{
+	margin-left: 20px;
+	width: 475px;
+	height: 320px;
+}
+#formica_rufa{
+	width: 475px;
+	height: 320px;
+}
+#images p{
+	font-size: 20px;
+	font-weight: bold;
+}
+#rufi_txt{
+	margin-top: -15px;
+}
+#rufi_txt_second{
+	margin-left: 25px;
+}
+#text_end{
+	margin-left: 450px;
+	margin-right: 20px;
+	font-size: 25px;
+	font-style: oblique;
+	font-weight: bold;
+	text-align: left;
+}
+
+#phone{
+	height: 670px;
+	width: 400px;
+}
+#alcatel{
+	padding-left: 85px;
+	margin-top: -230px;
+}
+#img_rotator{
+	margin-top: -842.5px;
+	margin-left: 105px;
+}
+#image_rotator{
+	width: 267px;
+	height: 466px;
+}
+#first_text {
+	padding-top: 80px;
+	margin-left: 7px;
+	margin-right: 7px;
+	text-align: center;
+	font-size: 25px;
+	font-style: oblique;
+	font-weight: bold;
+	
+}
+#first_text.p{
+	padding-right: 15px;
+	padding-left: 15px;
+}
+footer{
+	background: url(css/footer_bg.jpg) repeat-x 100%;
+	background-size: 100%;
+	-webkit-background-size: 100%;
+	font-size: 20px;
+	height: 480px;
+	margin-left: -10px;
+	margin-right: -15px;
+}
+#google_play_badge{
+	width: 440px;
+	height: 200px;
+	margin-top: -500px;
+	margin-left: 450px;
+}
+#vk_logo{
+	width: 50px;
+	height: 50px;
+}
+		
+			
